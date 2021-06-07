@@ -1,0 +1,35 @@
+Alumno: Luis Fernando Yang Fong Baeza
+
+El proyecto completo consta de 5 scripts con una función en particular para
+cada uno de ellos, a continuación se muestra y describe la función de cada uno,
+el nombre del script también es la función que realiza, esto para ahorrar tiempo
+en documentación.
+
+1. Menu Principal.
+
+  Funciona como el método main de cualquier programa, es el encargado de ejecutar
+  los demás scripts para el funcionamiento correcto de todo el proyecto. El
+  funcionamiento para la robustez y la habilidad de volver a este menú principal
+  simplemente basta con mantener un ciclo mientras se termina de ejecutar
+  cualquier script.
+
+2. Archivos.
+
+  Este script se encarga de todo el apartado de mostrado de archivos, maneja
+  archivos y directorios preguntando si estos existen para hacerlo también robusto
+  a fallas, no tratar de abrir un archivo o directorio que no exista.
+
+3. Procesos.
+
+  Al igual que el anterior, este script es el encargado de mostrar todo lo del
+  siguiente apartado del PDF especificado.
+
+4. Usuarios y grupos.
+
+  Misma idea del script anterior, pero respecto a los usuarios y grupos.
+
+5. Sistema.
+
+  Este funciona exactamente igual que los anteriores, con la misma idea del menú.
+
+
